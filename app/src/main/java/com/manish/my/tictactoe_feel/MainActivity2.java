@@ -27,7 +27,6 @@ public class MainActivity2 extends AppCompatActivity {
    Button  reset_1;
     TextView scover_1,scover_2;
     int count = 0, xCount = 0, oCount = 0;
-
     String scover = "";
 
 
